@@ -1,0 +1,3 @@
+# El signo de gato nos ayuda a definir un comentario
+# Ignora todos los documentos con la extensión .txt
+*.txt
